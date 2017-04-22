@@ -8,4 +8,5 @@ Today, being Earth day, I try to find out how global warming is slowly but surel
 
 To begin with some concrete example, I decided to look at the temperature fluctuations and changes in every season. Across the globe, there are four seasons - Summers, Autumns, Spring and Winters. The average temperature in each of the four seasons across the globe has shown an upward trend, especially after the late 1900's. Prior to that, the fluctuations seen in the graph below could be as a result of instruments not being as advanced as it is today.
 
+![avgtempbyseason](https://cloud.githubusercontent.com/assets/25044644/25309105/dddeeaf2-2791-11e7-9ed5-9fc2cc16032a.png)
 
