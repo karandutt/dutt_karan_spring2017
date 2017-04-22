@@ -10,3 +10,11 @@ To begin with some concrete example, I decided to look at the temperature fluctu
 
 ![avgtempbyseason](https://cloud.githubusercontent.com/assets/25044644/25309105/dddeeaf2-2791-11e7-9ed5-9fc2cc16032a.png)
 
+### Average land temperature by Country
+
+While the graph showed an upward trend in temperature increase throughout the globe, let us look into the average land temperatures in all the countries around the globe and try to analyze whether countries in the cold regions and hot regions have high land temperatures. This would allow us to understand, whether Greenland being a cold country is getting warmer or not and how hot are the countries in the desert region showing up.
+
+
+
+
+
