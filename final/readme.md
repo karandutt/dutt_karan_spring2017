@@ -54,7 +54,7 @@ Here we look at the global average temperature which according to the analysis i
 
 We also look at the temperatures across the globe with the help of a 2D map of the earth (3D opens in plotly website) shown below. 
 
-
+![globeplot](https://cloud.githubusercontent.com/assets/25044644/25309556/6b0e48da-279e-11e7-9de9-b6ad818bb31c.png)
 
 
 
