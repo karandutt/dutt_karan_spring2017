@@ -48,7 +48,13 @@ Moscow, Russia's capital is definitely getting warmer and warmer!
 
 ## Analysis 5: Global Average Temperature 
 
-Here we look at the global average temperature which according to the analysis is at a whooping 17 degrees C. Definitely warm. We also look at the temperatures across the globe with the help of a 2D map of the earth (3D opens in plotly website) shown below. 
+Here we look at the global average temperature which according to the analysis is at a whooping 17 degrees C. Definitely warm.
+
+![avgglobalhistogram](https://cloud.githubusercontent.com/assets/25044644/25309543/2edb3878-279e-11e7-9e87-67b4a0cec27b.png)
+
+We also look at the temperatures across the globe with the help of a 2D map of the earth (3D opens in plotly website) shown below. 
+
+
 
 
 
