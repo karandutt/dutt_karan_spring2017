@@ -36,6 +36,12 @@ From the graph below, we can also see that on an average temperatures in India h
 
 Now that we have analyzed for a country like India, let us see what is the situation of cities around the world where pollution is at an all time high and also analyze the global temperature trends. For this, we will first look at global temperature trends since 1750. In the graph below, we can see that before the 1900s the temperature fluctuations were sporadic and this could be possibly due to the instruments used.
 
+![meanglobaltemps](https://cloud.githubusercontent.com/assets/25044644/25309354/fabd92ca-2798-11e7-88cf-c64c61276d01.png)
+
+Global temperatures are showing a clear upward trend after the 1900s.
+Talking about cities, let us analyze the temperature increase in cities.
+We analyze the yearly mean temperature increase, yearly max temperature increase and the yearly min temperature increase for the cities.
+
 
 
 
