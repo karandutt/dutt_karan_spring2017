@@ -28,6 +28,8 @@ By performing analyses on India, I wanted to find out how much temperature incre
 
 ![avgtempavgtempuncertainty](https://cloud.githubusercontent.com/assets/25044644/25309317/db5921ca-2797-11e7-9cc9-ce88b19ad79c.png)
 
+From the graph below, we can also see that on an average temperatures in India hovers around 26-28 days for a period of 70-80 days for most part of the year with cooler temperatures only for a period of two weeks. This can be seen in the histogram below
+
 
 
 
