@@ -46,6 +46,12 @@ We analyze the yearly mean temperature increase, yearly max temperature increase
 
 Moscow, Russia's capital is definitely getting warmer and warmer!
 
+## Analysis 5: Global Average Temperature 
+
+Here we look at the global average temperature which according to the analysis is at a whooping 17 degrees C. Definitely warm. We also look at the temperatures across the globe with the help of a 2D map of the earth (3D opens in plotly website) shown below. 
+
+
+
 
 
 
