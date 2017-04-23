@@ -60,7 +60,13 @@ We also look at the temperatures across the globe with the help of a 2D map of t
 
 Kernel Density Estimation and Scatter plot showing the average temperature and the average temperature uncertainity in India.
 
+#### KDE Plot
+
 ![tempunckdeplot](https://cloud.githubusercontent.com/assets/25044644/25309568/b7e824f0-279e-11e7-830e-345b91f0ea3e.png)
+
+#### Scatter Plot
+
+![indiaavgscattertempunc](https://cloud.githubusercontent.com/assets/25044644/25309574/d6f88434-279e-11e7-9c72-0cc3b4d5f976.png)
 
 
 
