@@ -42,6 +42,9 @@ Global temperatures are showing a clear upward trend after the 1900s.
 Talking about cities, let us analyze the temperature increase in cities.
 We analyze the yearly mean temperature increase, yearly max temperature increase and the yearly min temperature increase for the cities.
 
+![yrmeanminmaxrandomcities](https://cloud.githubusercontent.com/assets/25044644/25309365/4947738e-2799-11e7-866b-a01312dae3fd.png)
+
+
 
 
 
