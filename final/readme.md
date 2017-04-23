@@ -24,7 +24,7 @@ By analyzing the countries with the highest temperature differences, which is th
 
 ## Analysis 3: Temperatures in India.
 
-By performing analyses on India, I wanted to find out how much temperature increase there has been in the last few years. I often starting noticing that temperatures in Mumbai are getting hotter by the day and even during "winter", temperatures hover above 85 degrees F. From the graph below, we can see that the Average minimum and maximum temperatures have risen by 2-4 degree C. This is a sign of global warming. 
+By performing analyses on India, I wanted to find out how much temperature increase there has been in the last few years. I often starting noticing that temperatures in Mumbai are getting hotter by the day and even during "winter", temperatures hover above 85 degrees F. From the graph below, we can see that the Average minimum and maximum temperatures have risen by 2-4 degree C. The temperature uncertainty too is constant which means it is inevitable that warm air will flow and fluctuation in temperatures could be a rare thing. This is a sign of global warming. 
 
 ![avgtempavgtempuncertainty](https://cloud.githubusercontent.com/assets/25044644/25309317/db5921ca-2797-11e7-9cc9-ce88b19ad79c.png)
 
