@@ -16,6 +16,12 @@ While the graph showed an upward trend in temperature increase throughout the gl
 
 ![avgtempbycountry](https://cloud.githubusercontent.com/assets/25044644/25309220/31d525e2-2795-11e7-98e5-0dce316cdc20.png)
 
+## Analysis 2: Countries with highest temperature differences.
+
+By analyzing the countries with the highest temperature differences, which is the difference between the maximum temperature value and the minimum temperature value we can find out how extreme the climate is getting in some countries. If the temperature difference in the colder countries is getting increasingly larger it is a sign that global warming is affecting the region. For example, a cold country like Greenland or Russia should have less temperature difference since they are near the poles. This can be seen in the graph below
+
+
+
 
 
 
