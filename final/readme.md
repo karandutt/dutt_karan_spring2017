@@ -44,6 +44,10 @@ We analyze the yearly mean temperature increase, yearly max temperature increase
 
 ![yrmeanminmaxrandomcities](https://cloud.githubusercontent.com/assets/25044644/25309365/4947738e-2799-11e7-866b-a01312dae3fd.png)
 
+Moscow, Russia's capital is definitely getting warmer and warmer!
+
+
+
 
 
 
