@@ -30,6 +30,14 @@ By performing analyses on India, I wanted to find out how much temperature incre
 
 From the graph below, we can also see that on an average temperatures in India hovers around 26-28 days for a period of 70-80 days for most part of the year with cooler temperatures only for a period of two weeks. This can be seen in the histogram below
 
+![indiaavghist](https://cloud.githubusercontent.com/assets/25044644/25309338/64a852ac-2798-11e7-84d8-3864fa66dac6.png)
+
+## Analysis 4: Global Temperature Trends and Mean, Min and Max temperatures for random Cities
+
+Now that we have analyzed for a country like India, let us see what is the situation of cities around the world where pollution is at an all time high and also analyze the global temperature trends. For this, we will first look at global temperature trends since 1750. In the graph below, we can see that before the 1900s the temperature fluctuations were sporadic and this could be possibly due to the instruments used.
+
+
+
 
 
 
