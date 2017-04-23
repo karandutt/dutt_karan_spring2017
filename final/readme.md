@@ -56,9 +56,11 @@ We also look at the temperatures across the globe with the help of a 2D map of t
 
 ![globeplot](https://cloud.githubusercontent.com/assets/25044644/25309556/6b0e48da-279e-11e7-9de9-b6ad818bb31c.png)
 
-# Extra
+### Extra
 
 Kernel Density Estimation and Scatter plot showing the average temperature and the average temperature uncertainity in India.
+
+![tempunckdeplot](https://cloud.githubusercontent.com/assets/25044644/25309568/b7e824f0-279e-11e7-830e-345b91f0ea3e.png)
 
 
 
